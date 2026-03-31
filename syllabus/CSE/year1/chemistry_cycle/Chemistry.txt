@@ -1,0 +1,10 @@
+Course Name: Engineering Chemistry
+Lecturer: Dr. Sunita Rao
+
+Topics:
+- Atomic Structure
+- Chemical Reactions
+- Corrosion
+- Polymers
+
+Duration: 12 weeks

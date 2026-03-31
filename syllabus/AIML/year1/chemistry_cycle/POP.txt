@@ -1,0 +1,10 @@
+Course Name: Programming in C
+Lecturer: Prof. Rajesh Kumar
+
+Topics:
+- Basics of C
+- Loops and Functions
+- Arrays
+- Pointers
+
+Duration: 12 weeks

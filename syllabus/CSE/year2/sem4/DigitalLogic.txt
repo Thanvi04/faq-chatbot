@@ -1,0 +1,10 @@
+Course Name: Digital Logic Design
+Lecturer: Dr. Pooja Singh
+
+Topics:
+- Boolean Algebra
+- Logic Gates
+- Flip Flops
+- Counters
+
+Duration: 12 weeks

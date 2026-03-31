@@ -1,0 +1,9 @@
+Course Name: Engineering Mathematics
+Lecturer: Prof. R. Natarajan
+
+Topics:
+- Calculus
+- Matrices
+- Probability
+
+Duration: 12 weeks

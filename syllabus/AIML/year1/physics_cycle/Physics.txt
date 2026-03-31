@@ -1,0 +1,10 @@
+Course Name: Engineering Physics
+Lecturer: Dr. Anil Kumar
+
+Topics:
+- Mechanics
+- Waves
+- Optics
+- Quantum Physics
+
+Duration: 12 weeks

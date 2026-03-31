@@ -1,0 +1,10 @@
+Course Name: Engineering Physics
+Lecturer: Dr. Manoj Verma
+
+Topics:
+- Mechanics
+- Waves
+- Optics
+- Semiconductor Physics
+
+Duration: 12 weeks

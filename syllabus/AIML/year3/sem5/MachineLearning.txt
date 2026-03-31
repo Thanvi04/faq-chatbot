@@ -1,0 +1,12 @@
+Course Name: Machine Learning
+Lecturer: Dr. Neha Verma
+
+Topics:
+- Linear Regression
+- Logistic Regression
+- Decision Trees
+- SVM
+- Neural Networks
+
+Tools: Python, Scikit-learn
+Duration: 12 weeks

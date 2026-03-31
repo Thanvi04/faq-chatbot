@@ -1,0 +1,10 @@
+Course Name: Operating Systems
+Lecturer: Dr. Ramesh Kulkarni
+
+Topics:
+- Process Management
+- Memory Management
+- Scheduling
+- Deadlocks
+
+Duration: 12 weeks

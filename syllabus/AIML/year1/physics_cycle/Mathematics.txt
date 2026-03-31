@@ -1,0 +1,9 @@
+Course Name: Engineering Mathematics
+Lecturer: Prof. S. Iyer
+
+Topics:
+- Calculus
+- Linear Algebra
+- Differential Equations
+
+Duration: 12 weeks

@@ -1,0 +1,10 @@
+Course Name: Data Structures
+Lecturer: Prof. Sandeep Kumar
+
+Topics:
+- Arrays
+- Linked Lists
+- Trees
+- Graphs
+
+Duration: 12 weeks

@@ -1,0 +1,10 @@
+Course Name: Computer Networks
+Lecturer: Prof. Deepak Mishra
+
+Topics:
+- OSI Model
+- TCP/IP
+- Routing
+- Network Security
+
+Duration: 12 weeks

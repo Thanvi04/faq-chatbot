@@ -1,0 +1,10 @@
+Course Name: Programming in C
+Lecturer: Prof. Vivek Sharma
+
+Topics:
+- Variables and Data Types
+- Loops
+- Functions
+- Arrays
+
+Duration: 12 weeks

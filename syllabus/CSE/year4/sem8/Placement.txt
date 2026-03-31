@@ -1,0 +1,10 @@
+Course Name: Placement Training
+Lecturer: Prof. Kiran Das
+
+Topics:
+- Aptitude
+- Coding
+- Interviews
+- Resume Building
+
+Duration: 10 weeks

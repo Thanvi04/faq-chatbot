@@ -1,0 +1,10 @@
+Course Name: Data Mining
+Lecturer: Prof. Rahul Singh
+
+Topics:
+- Data Preprocessing
+- Clustering
+- Association Rules
+- Classification
+
+Duration: 12 weeks

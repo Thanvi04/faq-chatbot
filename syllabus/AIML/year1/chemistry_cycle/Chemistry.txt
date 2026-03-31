@@ -1,0 +1,8 @@
+Course Name: Discrete Mathematics
+
+Topics:
+- Logic and Propositions
+- Set Theory
+- Relations and Functions
+- Graph Theory
+- Combinatorics

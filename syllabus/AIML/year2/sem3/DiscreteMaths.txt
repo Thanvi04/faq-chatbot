@@ -1,0 +1,10 @@
+Course Name: Discrete Mathematics
+Lecturer: Dr. Kavita Nair
+
+Topics:
+- Logic
+- Set Theory
+- Graph Theory
+- Combinatorics
+
+Duration: 12 weeks

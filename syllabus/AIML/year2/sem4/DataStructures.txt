@@ -1,0 +1,12 @@
+Course Name: Data Structures
+Lecturer: Prof. Arun Reddy
+
+Topics:
+- Arrays
+- Linked Lists
+- Stacks
+- Queues
+- Trees
+
+Duration: 12 weeks
+

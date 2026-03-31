@@ -1,0 +1,10 @@
+Course Name: Placement Training
+Lecturer: Prof. Amit Gupta
+
+Topics:
+- Aptitude Training
+- Coding Practice
+- Interview Preparation
+- Resume Building
+
+Duration: 10 weeks

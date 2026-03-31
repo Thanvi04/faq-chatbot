@@ -1,0 +1,11 @@
+Course Name: Deep Learning
+Lecturer: Dr. Priya Menon
+
+Topics:
+- Neural Networks
+- CNN
+- RNN
+- Transformers
+
+Tools: TensorFlow, PyTorch
+Duration: 12 weeks

@@ -1,0 +1,10 @@
+Course Name: Database Management Systems
+Lecturer: Prof. Ankit Jain
+
+Topics:
+- SQL
+- Normalization
+- Transactions
+- Indexing
+
+Duration: 12 weeks
